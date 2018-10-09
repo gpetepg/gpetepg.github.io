@@ -1,0 +1,41 @@
+/* The # is used for ids. */
+
+#homepage{
+    background-image: url('paris.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    }
+
+/* The . is used for classes. */
+/* classes can be used more than once .*/
+
+
+/* This is used to center the text on the page. */
+  .homepage {
+    color: black;
+    font-family: 'Fugaz One', cursive;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 35px;
+    min-height: 100vh;
+  }
+
+  /* Formats the About Me. */
+  .navbar-brand{
+    font-family: 'Fugaz One', cursive;
+    font-size: 23px;
+  }
+
+  /* Formats items in the navbar i.e. the dropdown menu etc. */
+  .nav-link{
+    font-family: 'Fugaz One', cursive;
+    font-size: 23px;
+  }
+
+  /* Formats the dropdown items */
+  .dropdown-item{
+    font-family: 'Fugaz One', cursive;
+  }
