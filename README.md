@@ -30,7 +30,7 @@ Find icons [here](https://fontawesome.com/icons?d=gallery).
 
 [How to size icons](https://fontawesome.com/how-to-use/on-the-web/styling/sizing-icons).
 
-Reference lines `27-40` in index.html if you still need help. This where you will add your personal imformation as well.
+Reference lines `27-40` in index.html if you still need help. This is where you will add your personal information as well.
 
 ## [Google Fonts](https://fonts.google.com/)
 All you need is to click `+` on fonts you like, open the tab `-` on the bottom of the page then copy and add the css and Javascript to your file.
