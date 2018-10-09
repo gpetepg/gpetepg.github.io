@@ -11,9 +11,9 @@ By default the text is centered and the background image is static as you scroll
 
 2) Clone the repository.
 
-3) After editing your changes here, add the project files into the repository.
+3) After editing the template to your liking, add the project files to the repository.
 
-4) Push and you're done!
+4) Push and you're done! Check out username.github.io to see your new site!
 
 # Tools I Used
 
